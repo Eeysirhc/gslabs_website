@@ -20,7 +20,7 @@
   userName = "gs"
   pcName = "labs"
   workDir = "products"
-  profile = "faq.txt"
+  profile = "about.txt"
 
   # Note: speed at which text is displayed on the terminal
   terminalDelay = 20
@@ -30,7 +30,9 @@
 
   description = """
   
-  IN PROGRESS: Web3.0 intelligence platform.
+  
+  Blockchain intelligence and crypto analytics.
+
 
   """
   [Params.Tree]
