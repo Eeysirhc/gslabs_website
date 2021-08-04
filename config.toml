@@ -17,7 +17,7 @@
   # ./[folderName]/
   # ...
   # Note: result of the tree command
-  userName = "gs"
+  userName = "gsb"
   pcName = "labs"
   workDir = "products"
   profile = "about.txt"
@@ -49,3 +49,6 @@
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+
+
