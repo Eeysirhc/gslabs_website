@@ -19,7 +19,7 @@
   # Note: result of the tree command
   userName = "gsb"
   pcName = "labs"
-  workDir = "products"
+  workDir = "technology"
   profile = "about.txt"
 
   # Note: speed at which text is displayed on the terminal
