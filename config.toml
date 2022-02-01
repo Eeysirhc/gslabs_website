@@ -37,11 +37,10 @@
   """
   [Params.Tree]
   use = true
-  folderName = "learn_more"
+  folderName = "clients"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["cyee", "https://www.christopheryee.org/"],
-    ["ngadacz", "https://www.linkedin.com/in/nicholasgadacz/"]
+    ["Immutable X", "https://www.immutable.com/"]
   ]
   
 
@@ -49,6 +48,7 @@
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
 
 
 
