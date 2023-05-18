@@ -37,10 +37,13 @@
   """
   [Params.Tree]
   use = true
-  folderName = "clients"
+  folderName = "collabs"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["Immutable X", "https://www.immutable.com/"]
+    ["Immutable X", "https://www.immutable.com/"],
+    ["Ergo Platform", "https://ergoplatform.org/en/"],
+    ["Nervos Network", "https://www.nervos.org/"],
+    ["Alephium", "https://alephium.org/"]
   ]
   
 
@@ -48,6 +51,8 @@
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+
 
 
 
